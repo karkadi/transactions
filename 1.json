@@ -1,0 +1,101 @@
+{
+    "nextPage": 2,
+    "transactions": [
+        {
+            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "title": "Unknow operation",
+            "subtitle": "This operation is not categorized",
+            "type": "UNKNOW",
+            "isImportant": "true",
+            "operationDate": "2022-05-11T15:39:46.095Z",
+            "transactionAmount": {
+                "currency": "EUR",
+                "amount": "-1" 
+            }
+        },
+        {
+            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "title": "Unknow operation",
+            "subtitle": "This operation is not categorized",
+            "type": "UNKNOW",
+            "isImportant": "true",
+            "operationDate": "2022-05-11T15:39:46.095Z",
+            "transactionAmount": {
+                "currency": "EUR",
+                "amount": "-1" 
+            }
+        },
+        {
+            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "title": "Unknow operation",
+            "subtitle": "This operation is not categorized",
+            "type": "UNKNOW",
+            "isImportant": "true",
+            "operationDate": "2022-05-12T15:39:46.095Z",
+            "transactionAmount": {
+                "currency": "EUR",
+                "amount": "-1" 
+            }
+        },
+        {
+            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "title": "Unknow operation",
+            "subtitle": "This operation is not categorized",
+            "type": "UNKNOW",
+            "isImportant": "true",
+            "operationDate": "2022-05-12T15:39:46.095Z",
+            "transactionAmount": {
+                "currency": "EUR",
+                "amount": "-1" 
+            }
+        },
+        {
+            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "title": "Unknow operation",
+            "subtitle": "This operation is not categorized",
+            "type": "UNKNOW",
+            "isImportant": "true",
+            "operationDate": "2022-05-13T15:39:46.095Z",
+            "transactionAmount": {
+                "currency": "EUR",
+                "amount": "-1" 
+            }
+        },
+        {
+            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "title": "Unknow operation",
+            "subtitle": "This operation is not categorized",
+            "type": "UNKNOW",
+            "isImportant": "true",
+            "operationDate": "2022-05-13T15:39:46.095Z",
+            "transactionAmount": {
+                "currency": "EUR",
+                "amount": "-1" 
+            }
+        },
+        {
+            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "title": "Unknow operation",
+            "subtitle": "This operation is not categorized",
+            "type": "UNKNOW",
+            "isImportant": "true",
+            "operationDate": "2022-05-13T15:39:46.095Z",
+            "transactionAmount": {
+                "currency": "EUR",
+                "amount": "-1" 
+            }
+        },
+        {
+            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "title": "Unknow operation",
+            "subtitle": "This operation is not categorized",
+            "type": "UNKNOW",
+            "isImportant": "true",
+            "operationDate": "2022-05-13T15:39:46.095Z",
+            "transactionAmount": {
+                "currency": "EUR",
+                "amount": "-1" 
+            }
+        }
+    ]
+}
