@@ -2,7 +2,7 @@
     "nextPage": 2,
     "transactions": [
         {
-            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "transactionId": "059cb348-bf1e-4012-84ae-373b118779d4",
             "title": "Unknow operation",
             "subtitle": "This operation is not categorized",
             "type": "UNKNOW",
@@ -10,11 +10,11 @@
             "operationDate": "2022-05-11T15:39:46.095Z",
             "transactionAmount": {
                 "currency": "EUR",
-                "amount": "-1" 
+                "amount": "-12"
             }
         },
         {
-            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "transactionId": "159cb348-bf1e-4012-84ae-373b118779d4",
             "title": "Unknow operation",
             "subtitle": "This operation is not categorized",
             "type": "UNKNOW",
@@ -22,11 +22,11 @@
             "operationDate": "2022-05-11T15:39:46.095Z",
             "transactionAmount": {
                 "currency": "EUR",
-                "amount": "-1" 
+                "amount": "10"
             }
         },
         {
-            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "transactionId": "259cb348-bf1e-4012-84ae-373b118779d4",
             "title": "Unknow operation",
             "subtitle": "This operation is not categorized",
             "type": "UNKNOW",
@@ -34,11 +34,11 @@
             "operationDate": "2022-05-12T15:39:46.095Z",
             "transactionAmount": {
                 "currency": "EUR",
-                "amount": "-1" 
+                "amount": "-14"
             }
         },
         {
-            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "transactionId": "359cb348-bf1e-4012-84ae-373b118779d4",
             "title": "Unknow operation",
             "subtitle": "This operation is not categorized",
             "type": "UNKNOW",
@@ -46,11 +46,11 @@
             "operationDate": "2022-05-12T15:39:46.095Z",
             "transactionAmount": {
                 "currency": "EUR",
-                "amount": "-1" 
+                "amount": "100"
             }
         },
         {
-            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "transactionId": "459cb348-bf1e-4012-84ae-373b118779d4",
             "title": "Unknow operation",
             "subtitle": "This operation is not categorized",
             "type": "UNKNOW",
@@ -58,11 +58,11 @@
             "operationDate": "2022-05-13T15:39:46.095Z",
             "transactionAmount": {
                 "currency": "EUR",
-                "amount": "-1" 
+                "amount": "-19"
             }
         },
         {
-            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "transactionId": "559cb348-bf1e-4012-84ae-373b118779d4",
             "title": "Unknow operation",
             "subtitle": "This operation is not categorized",
             "type": "UNKNOW",
@@ -70,11 +70,11 @@
             "operationDate": "2022-05-13T15:39:46.095Z",
             "transactionAmount": {
                 "currency": "EUR",
-                "amount": "-1" 
+                "amount": "22"
             }
         },
         {
-            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "transactionId": "659cb348-bf1e-4012-84ae-373b118779d4",
             "title": "Unknow operation",
             "subtitle": "This operation is not categorized",
             "type": "UNKNOW",
@@ -82,11 +82,11 @@
             "operationDate": "2022-05-13T15:39:46.095Z",
             "transactionAmount": {
                 "currency": "EUR",
-                "amount": "-1" 
+                "amount": "-144"
             }
         },
         {
-            "transactionId": "d59cb348-bf1e-4012-84ae-373b118779d4",
+            "transactionId": "759cb348-bf1e-4012-84ae-373b118779d4",
             "title": "Unknow operation",
             "subtitle": "This operation is not categorized",
             "type": "UNKNOW",
@@ -94,7 +94,7 @@
             "operationDate": "2022-05-13T15:39:46.095Z",
             "transactionAmount": {
                 "currency": "EUR",
-                "amount": "-1" 
+                "amount": "-198"
             }
         }
     ]
