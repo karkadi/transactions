@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "appEnabledIOS": true,
+  "appEnabledAndroid": true,
+  "minVersionIOS": 100,
+  "minVersionAndroid": 100,
+  "features": {
+    "test": true
+  }
+}
